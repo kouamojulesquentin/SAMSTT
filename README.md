@@ -13,7 +13,7 @@ This application is designed to perform testing and analysis of analog and mixed
 - Generation of a detailed test report
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/kouamojulesquentin/SAMSTT.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Configutre the application environment
 4. Start the application: `python App.py`
