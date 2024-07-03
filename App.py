@@ -29,7 +29,7 @@ class App(ctk.CTk):
         """Initialize the main class"""
 
         # Window settings
-        self.theme = ctk.set_default_color_theme("dark-blue")
+        self.theme = ctk.set_default_color_theme("dark-blue")   
         screen_width = self.winfo_screenwidth()
         screen_height = self.winfo_screenheight()
         self.geometry(f"{screen_width}x{screen_height}")
