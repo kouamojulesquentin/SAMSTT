@@ -38,4 +38,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or support, please contact [kouamojulesquentin@gamil.com](kouamojulesquentin@gmail.com)
+For any inquiries or support, please contact [kouamojulesquentin@gmail.com](kouamojulesquentin@gmail.com)
